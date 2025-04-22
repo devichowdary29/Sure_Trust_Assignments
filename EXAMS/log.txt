@@ -1,0 +1,10 @@
+INFO: System initialized successfully 
+ERROR: Failed to connect to the database 
+WARNING: Deprecated function used 
+info: User logged in 
+error: Timeout while connecting to server 
+DEBUG: Memory usage is within limits 
+ERROR: Null pointer exception occurred 
+Warning: Battery level low 
+fatal: System crash detected 
+Error: File not found
